@@ -40,3 +40,8 @@ Pro spuštění projektu na lokálním stroji potřebuješ Node.js (doporučeno 
 ```bash
 git clone [https://github.com/tvoje-uzivatelske-jmeno/buncha.git](https://github.com/tvoje-uzivatelske-jmeno/buncha.git)
 cd buncha
+
+---
+
+🧩 Vývojový proces (Spec-Driven Development)
+Tento projekt využívá metodiku Spec-Driven Development. Před implementací složitějších funkcí definujeme specifikace pomocí toolkitu spec-kit.
